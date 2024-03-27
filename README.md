@@ -65,10 +65,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://lk.linkedin.com/in/avishka-nilshan-bb909a271" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="https://lk.linkedin.com/in/avishka-nilshan-bb909a271" height="40" width="50" /></a>
-<a href="https://x.com/avishkanilshann?t=bkywjrpt5y6r42cpgkewtw&s=09" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="https://x.com/avishkanilshann?t=bkywjrpt5y6r42cpgkewtw&s=09" height="40" width="50" /></a>
-<a href="https://instagram.com/avishkanilshan" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="avishkanilshan" height="40" width="50" /></a>
-<a href="https://www.facebook.com/avishka.nilshan.12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/avishka.nilshan.12/" height="40" width="50" /></a>
+<a href="https://lk.linkedin.com/in/avishka-nilshan-bb909a271" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="https://lk.linkedin.com/in/avishka-nilshan-bb909a271" height="40" width="50" /></a>
+<a href="https://x.com/avishkanilshann?t=bkywjrpt5y6r42cpgkewtw&s=09" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Twitter.svg" alt="https://x.com/avishkanilshann?t=bkywjrpt5y6r42cpgkewtw&s=09" height="40" width="50" /></a>
+<a href="https://instagram.com/avishkanilshan" target="_blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/Instagram.svg" alt="avishkanilshan" height="40" width="50" /></a>
+<a href="https://www.facebook.com/avishka.nilshan.12/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/avishka.nilshan.12/" height="40" width="50" /></a>
 </p>
  
 </p>
