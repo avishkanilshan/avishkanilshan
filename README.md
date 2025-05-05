@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avishka Nilshan</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <!-- snake game -->
 <div align="center">
   <img  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
